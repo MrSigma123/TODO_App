@@ -1,0 +1,8 @@
+PROJECT STRUCTURE:
+
+operating on different files:
+- task to be done
+- tasks in progress
+- completed tasks
+
+saving the current time and date after adding / completing the task
